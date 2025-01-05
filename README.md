@@ -44,7 +44,7 @@ This work is licensed under the **[CC BY-NC 4.0 License](https://creativecommons
 1. **Download the Presentation:**
    - Clone the repository:  
      ```bash
-     git clone https://github.com/<your-username>/CyberAwareness-SMEs.git
+     git clone https://github.com/otuemre/CyberAwareness-SMEs.git
      ```
    - Or download it directly as a ZIP file from the GitHub repository.
 
